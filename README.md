@@ -59,7 +59,7 @@ Bạn có thể triển khai trang web này bằng cách sử dụng bất kỳ 
 
 ## 📸 Ảnh Chụp Màn Hình
 
-![Screenshot](link-to-screenshot.png)
+![Screenshot](/Screenshot.png)
 
 ## 🎉 Demo Trực Tuyến
 
