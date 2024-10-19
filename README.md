@@ -1,7 +1,3 @@
-Dưới đây là một mẫu **README.md** dành cho dự án trang web **"Happy Women's Day 20/10"**, bao gồm mô tả dự án, cách chạy, các tính năng chính, và hướng dẫn phát triển:
-
----
-
 # 🎉 Happy Women's Day 20/10 🎉
 
 Chào mừng bạn đến với dự án **Happy Women's Day 20/10**! Đây là một trang web tương tác và đẹp mắt được tạo ra để kỷ niệm ngày Phụ nữ Việt Nam 20/10, với hiệu ứng hình ảnh hoa và văn bản động.
