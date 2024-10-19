@@ -75,7 +75,3 @@ Dự án này được phát hành dưới giấy phép **MIT License**.
 
 - **Anh Vu** - Tạo nội dung và phát triển trang web.
 - **Code Gym** - Tác giả sáng tác ra nội dung và lên ý tưởng.
-
-### Hướng dẫn:
-
-- **README.md** này có thể được lưu trực tiếp vào thư mục gốc của dự án. Khi người dùng truy cập vào repository GitHub của bạn, họ sẽ thấy hướng dẫn và mô tả dự án ngay lập tức.
