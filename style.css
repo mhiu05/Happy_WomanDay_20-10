@@ -1003,7 +1003,7 @@ body {
     
     /* --- Kiểu chữ --- */
     color: #ffcccc; /* Màu sáng, nổi bật (Hồng nhạt) */
-    font-size: 3vmin; /* Kích thước chữ linh hoạt theo màn hình */
+    font-size: 10vmin; /* Kích thước chữ linh hoạt theo màn hình */
     font-family: cursive; /* Sử dụng font chữ uốn lượn có sẵn */
     font-weight: 700;
     letter-spacing: 0.1vmin;
